@@ -16,6 +16,4 @@ Getting Started
 
 https://github.com/abhishesh07/Credit_Card_Fraud_Detection_using_ml
 
-2.Install the required dependencies:
 
-pip install -r requirements.txt
